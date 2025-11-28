@@ -8,7 +8,7 @@ console.log (name);
 // Crea tre variabili chiamate number, text e bool e assegna rispettivamente
 // un numero, una stringa e un valore booleano.
 let number = 3;
-let text = "Questa è la stringa";
+let text = 'Questa è la stringa';
 let bool = false;
 // Stampa tutti i valori nella console.
 console.log (number, text, bool);
